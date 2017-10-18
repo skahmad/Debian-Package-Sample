@@ -1,0 +1,6 @@
+Pakage: hellodeb
+Version: 1.0
+Architecture: any
+Source: hellodeb
+Maintainer: sk ahmad
+Description: It is a simple linux debian package program tutorials.
