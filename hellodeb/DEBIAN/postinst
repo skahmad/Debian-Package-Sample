@@ -1,0 +1,6 @@
+##########################################
+# This file must be executable script
+# it is ececute after successfully install our package.
+# below command will be execute afetr installation.
+#########################################
+echo "hellodeb application Install success."
