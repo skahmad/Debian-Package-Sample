@@ -15,7 +15,7 @@ dir:
     echo "# it is ececute after successfully install our package." >> debpackage/DEBIAN/postinst
     echo "# below command will be execute afetr installation." >> debpackage/DEBIAN/postinst
     echo "#########################################" >> debpackage/DEBIAN/postinst
-    echo "hellodeb application Install success." >> debpackage/DEBIAN/postinst
+    echo "echo \"hellodeb application Install success.\"" >> debpackage/DEBIAN/postinst
     
     echo > debpackage/DEBIAN/control
     
