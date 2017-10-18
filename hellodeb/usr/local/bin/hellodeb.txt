@@ -1,0 +1,2 @@
+hellodeb file will intall in our system path /usr/local/bin.
+and it is execute in our terminal.
