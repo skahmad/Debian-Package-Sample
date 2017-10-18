@@ -25,3 +25,8 @@ build-package:
 	echo "Description: It is a simple linux debian package program tutorials." >> debpackage/DEBIAN/control
     dpkg-deb --build debpackage
     
+cls:
+	rm hellodeb
+	rm hellodeb.o
+	rm -fr debpackage
+    
